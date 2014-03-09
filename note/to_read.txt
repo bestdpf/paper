@@ -1,0 +1,4 @@
+[1] towards datacenter networks sigcomm 2011:
+there are some descrpitions of issues of tenant network in Cloud.
+[2] can the production network be the testbed
+FlowVisor,virtual sdn.
